@@ -1,14 +1,15 @@
 return {
 	mod_description = {
 		en = "Display your characters' wallets on the character selection screen.",
-		["zh-cn"] = "在特工选择界面显示角色的资源数量。",
+		["zh-cn"] = "在特工选择界面显示角色的材料数量。",
 	},
 	options_vis = {
 		en = "Wallet Contents",
-		["zh-cn"] = "资源内容",
+		["zh-cn"] = "材料内容",
 	},
 	options_order = {
 		en = "Wallet Order",
+		["zh-cn"] = "材料顺序",
 	},
 	currency_credits = {
 		en = Localize("loc_currency_name_credits"),
@@ -31,13 +32,14 @@ return {
 	},
 	start_x = {
 		en = "Wallet Offset",
-		["zh-cn"] = "偏移",
+		["zh-cn"] = "材料数偏移量",
 	},
 	size_x = {
 		en = "Wallet Stretch",
-		["zh-cn"] = "拉伸",
+		["zh-cn"] = "材料数拉伸量",
 	},
 	contracts_x = {
 		en = "Contracts Offset",
+		["zh-cn"] = "每周协议偏移量",
 	},
 }

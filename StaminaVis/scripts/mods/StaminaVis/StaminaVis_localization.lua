@@ -5,21 +5,27 @@ return {
 	},
 	vis_components = {
 		en = "Stamina Components",
+		["zh-cn"] = "体力显示组件",
 	},
 	comp_all = {
 		en = "Bar and Percentage",
+		["zh-cn"] = "体力条和百分比",
 	},
 	comp_bar = {
 		en = "Bar Only",
+		["zh-cn"] = "仅体力条",
 	},
 	comp_perc = {
 		en = "Percentage Only",
+		["zh-cn"] = "仅百分比",
 	},
 	label_vis = {
 		en = "Label Visible",
+		["zh-cn"] = "文字标签可见性",
 	},
 	label_flipped = {
 		en = "Label/Percentage Flipped",
+		["zh-cn"] = "交换文字标签和百分比",
 	},
 	vis_behavior = {
 		en = "Visibility Behavior",
